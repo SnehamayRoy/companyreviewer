@@ -1,0 +1,211 @@
+company,aspect,sentiment_mean,rating_1_to_5
+AMD,career_growth,0.023680803387015507,3.05
+AMD,compensation_benefits,0.06314829584422223,3.13
+AMD,culture_values,-0.05478310128095238,2.89
+AMD,management,0.054726578280303036,3.11
+AMD,work_life_balance,0.0017080652093137323,3.0
+Accenture,career_growth,0.08889809512698206,3.18
+Accenture,compensation_benefits,0.010796280063083153,3.02
+Accenture,culture_values,0.04108199944501185,3.08
+Accenture,management,0.07224175633418595,3.14
+Accenture,work_life_balance,-0.015191159823878406,2.97
+Adobe,career_growth,-0.08973319407676766,2.82
+Adobe,compensation_benefits,-0.31805663228294573,2.36
+Adobe,culture_values,-0.33153990825035523,2.34
+Adobe,management,-0.17409787309893943,2.65
+Adobe,work_life_balance,-0.3231395191654382,2.35
+Airbnb,career_growth,0.04125416666666667,3.08
+Airbnb,compensation_benefits,0.04807967994339623,3.1
+Airbnb,culture_values,0.4540722,3.91
+Airbnb,management,0.15659017666666666,3.31
+Airbnb,work_life_balance,0.08006468177551021,3.16
+Amazon,career_growth,-0.054202895774913475,2.89
+Amazon,compensation_benefits,-0.2886306425885228,2.42
+Amazon,culture_values,-0.14383443003657306,2.71
+Amazon,management,-0.21843237803521126,2.56
+Amazon,work_life_balance,-0.19120011346099755,2.62
+Apple,career_growth,0.3728893637196114,3.75
+Apple,compensation_benefits,0.06073241073862435,3.12
+Apple,culture_values,-0.260214442648581,2.48
+Apple,management,-0.03682993007056071,2.93
+Apple,work_life_balance,0.15500870209214287,3.31
+Atlassian,career_growth,-0.09324714834990339,2.81
+Atlassian,compensation_benefits,-0.207340425062204,2.59
+Atlassian,culture_values,-0.16368992685920428,2.67
+Atlassian,management,-0.14511557630226932,2.71
+Atlassian,work_life_balance,-0.2094376881789964,2.58
+Capgemini,career_growth,-0.12027481025000003,2.76
+Capgemini,compensation_benefits,-0.08781833128571429,2.82
+Capgemini,culture_values,0.3203898055,3.64
+Capgemini,management,0.0498077517777778,3.1
+Capgemini,work_life_balance,-0.17263272283333336,2.65
+Citadel,career_growth,0.16050811118933334,3.32
+Citadel,compensation_benefits,0.048171920122655004,3.1
+Citadel,culture_values,0.11224259089930555,3.22
+Citadel,management,0.14407494792826087,3.29
+Citadel,work_life_balance,0.08356031593947369,3.17
+Cognizant,career_growth,-0.0546025212628205,2.89
+Cognizant,compensation_benefits,-0.09094331045964583,2.82
+Cognizant,culture_values,-0.056914770638636356,2.89
+Cognizant,management,-0.1069747005907,2.79
+Cognizant,work_life_balance,-0.09953714160128205,2.8
+Deloitte,career_growth,0.13400389106382835,3.27
+Deloitte,compensation_benefits,-0.03565753215279058,2.93
+Deloitte,culture_values,0.05897666039112555,3.12
+Deloitte,management,0.0028592396006827765,3.01
+Deloitte,work_life_balance,-0.11616031997204174,2.77
+EY,career_growth,-0.02623811777695853,2.95
+EY,compensation_benefits,-0.053999306879579545,2.89
+EY,culture_values,-0.11073235185546416,2.78
+EY,management,-0.117905702529577,2.76
+EY,work_life_balance,-0.07651287547714604,2.85
+Goldman Sachs,career_growth,0.18944634481666667,3.38
+Goldman Sachs,compensation_benefits,0.06709844853194444,3.13
+Goldman Sachs,culture_values,0.0893124502352941,3.18
+Goldman Sachs,management,0.06240563264225352,3.12
+Goldman Sachs,work_life_balance,0.06403279981250001,3.13
+Google,career_growth,0.23253480323860892,3.47
+Google,compensation_benefits,-0.06249523484442641,2.88
+Google,culture_values,-0.04853740049751143,2.9
+Google,management,-0.10398370423301093,2.79
+Google,work_life_balance,0.019832444573540824,3.04
+HCL,career_growth,-0.18533403255000003,2.63
+HCL,compensation_benefits,-0.3829907454017857,2.23
+HCL,culture_values,-0.3427431577941177,2.31
+HCL,management,-0.3231626427272728,2.35
+HCL,work_life_balance,-0.4693375686666667,2.06
+HubSpot,career_growth,0.1839350630357143,3.37
+HubSpot,compensation_benefits,0.17875813066363638,3.36
+HubSpot,culture_values,0.17529904797727275,3.35
+HubSpot,management,0.1466451925,3.29
+HubSpot,work_life_balance,0.10472220196153845,3.21
+Infosys,career_growth,-0.11182594033063381,2.78
+Infosys,compensation_benefits,-0.10169627992525072,2.8
+Infosys,culture_values,-0.1320053927780127,2.74
+Infosys,management,-0.18875633967310168,2.62
+Infosys,work_life_balance,-0.2065761305241792,2.59
+Intel,career_growth,0.32933912506643354,3.66
+Intel,compensation_benefits,0.20788745156010638,3.42
+Intel,culture_values,0.07174752010843373,3.14
+Intel,management,0.051046110166708174,3.1
+Intel,work_life_balance,0.15344285387957823,3.31
+JPMorgan,career_growth,0.1070000483030303,3.21
+JPMorgan,compensation_benefits,0.13267194481884056,3.27
+JPMorgan,culture_values,0.08749259729782609,3.17
+JPMorgan,management,0.010579682999999996,3.02
+JPMorgan,work_life_balance,-0.050055983361702125,2.9
+Jane Street,career_growth,0.26491497031628786,3.53
+Jane Street,compensation_benefits,0.17792827034999997,3.36
+Jane Street,culture_values,0.16988316628333333,3.34
+Jane Street,management,-0.031453496990196075,2.94
+Jane Street,work_life_balance,0.12247745088801844,3.24
+KPMG,career_growth,-0.03149184890906747,2.94
+KPMG,compensation_benefits,-0.11342455413240386,2.77
+KPMG,culture_values,-0.11175477336120791,2.78
+KPMG,management,-0.004349587192111121,2.99
+KPMG,work_life_balance,-0.14074578835307694,2.72
+Meta,career_growth,-0.465150465815898,2.07
+Meta,compensation_benefits,-0.46014531511654044,2.08
+Meta,culture_values,-0.457312881462963,2.09
+Meta,management,-0.4286228620681606,2.14
+Meta,work_life_balance,-0.31309382128467783,2.37
+Microsoft,career_growth,0.09996852234545078,3.2
+Microsoft,compensation_benefits,-0.3265027557756244,2.35
+Microsoft,culture_values,-0.04969416324348416,2.9
+Microsoft,management,-0.11423083168353204,2.77
+Microsoft,work_life_balance,-0.025483143707154418,2.95
+Morgan Stanley,career_growth,0.17077078892957748,3.34
+Morgan Stanley,compensation_benefits,0.09349580882758621,3.19
+Morgan Stanley,culture_values,0.3291569935,3.66
+Morgan Stanley,management,0.01342585976197184,3.03
+Morgan Stanley,work_life_balance,0.015861929291666663,3.03
+NVIDIA,career_growth,0.31068241409999997,3.62
+NVIDIA,compensation_benefits,0.1111687799,3.22
+NVIDIA,culture_values,-0.006764740016666673,2.99
+NVIDIA,management,0.24448863000000004,3.49
+NVIDIA,work_life_balance,0.23291274566666664,3.47
+Netflix,career_growth,-0.25950625820405865,2.48
+Netflix,compensation_benefits,-0.21365348124261238,2.57
+Netflix,culture_values,-0.18303972721792117,2.63
+Netflix,management,-0.016819364325589208,2.97
+Netflix,work_life_balance,-0.21286535894509898,2.57
+Oracle,career_growth,0.050860229682433256,3.1
+Oracle,compensation_benefits,-0.16053426011197247,2.68
+Oracle,culture_values,-0.0950254199277598,2.81
+Oracle,management,-0.11209386143493456,2.78
+Oracle,work_life_balance,-0.0933387057531056,2.81
+Palantir,career_growth,0.08975399201874999,3.18
+Palantir,compensation_benefits,-0.31681899388679247,2.37
+Palantir,culture_values,0.2327272032236842,3.47
+Palantir,management,0.062377335939189184,3.12
+Palantir,work_life_balance,-0.29846660522368423,2.4
+PwC,career_growth,0.05570109344430739,3.11
+PwC,compensation_benefits,0.03873890736241995,3.08
+PwC,culture_values,0.0032661882487989014,3.01
+PwC,management,-0.028793217662815125,2.94
+PwC,work_life_balance,0.08352170077658046,3.17
+Qualcomm,career_growth,0.2818008775882353,3.56
+Qualcomm,compensation_benefits,0.0257374458,3.05
+Qualcomm,culture_values,0.05016685542857143,3.1
+Qualcomm,management,-0.022598388235294115,2.95
+Qualcomm,work_life_balance,-0.054609333914893615,2.89
+SAP,career_growth,0.012382029897398842,3.02
+SAP,compensation_benefits,-0.13546392389637635,2.73
+SAP,culture_values,-0.13338185773686634,2.73
+SAP,management,-0.009273416746097562,2.98
+SAP,work_life_balance,-0.07473581828006397,2.85
+Salesforce,career_growth,0.11108201097263375,3.22
+Salesforce,compensation_benefits,-0.03384842233798514,2.93
+Salesforce,culture_values,-0.008424134772612923,2.98
+Salesforce,management,-0.06913846674614862,2.86
+Salesforce,work_life_balance,-0.10363361918205115,2.79
+ServiceNow,career_growth,0.05250311884615386,3.11
+ServiceNow,compensation_benefits,0.037689680388888896,3.08
+ServiceNow,culture_values,0.04705469750000001,3.09
+ServiceNow,management,-0.054073769125,2.89
+ServiceNow,work_life_balance,-0.19486865377777776,2.61
+Shopify,career_growth,-0.07765336004177369,2.84
+Shopify,compensation_benefits,0.25606488650000003,3.51
+Shopify,culture_values,0.08442755035792349,3.17
+Shopify,management,-0.024467685196129036,2.95
+Shopify,work_life_balance,0.017619584235666667,3.04
+Snowflake,career_growth,0.3230635677027027,3.65
+Snowflake,compensation_benefits,0.20611344430681816,3.41
+Snowflake,culture_values,-0.01716718685339505,2.97
+Snowflake,management,-0.06329832373631508,2.87
+Snowflake,work_life_balance,0.04256841165010353,3.09
+Stripe,career_growth,0.2707566422596154,3.54
+Stripe,compensation_benefits,0.0017406057831435805,3.0
+Stripe,culture_values,0.2221154879758514,3.44
+Stripe,management,0.0695447389565508,3.14
+Stripe,work_life_balance,0.074691601575,3.15
+TCS,career_growth,-0.1242198101005847,2.75
+TCS,compensation_benefits,-0.27722389831714284,2.45
+TCS,culture_values,-0.25863004999978634,2.48
+TCS,management,-0.2627568613640583,2.47
+TCS,work_life_balance,-0.250103272440171,2.5
+Tech Mahindra,career_growth,-0.12402492,2.75
+Tech Mahindra,compensation_benefits,0.091830560325,3.18
+Tech Mahindra,culture_values,-0.5265239615,1.95
+Tech Mahindra,management,-0.3587399896923077,2.28
+Tech Mahindra,work_life_balance,-0.2703070725625,2.46
+Two Sigma,career_growth,0.3018833366666666,3.6
+Two Sigma,compensation_benefits,-0.3422045609090909,2.32
+Two Sigma,culture_values,0.37170051235,3.74
+Two Sigma,management,0.12459875979545454,3.25
+Two Sigma,work_life_balance,-0.0884018115,2.82
+Uber,career_growth,-0.3588470891875,2.28
+Uber,compensation_benefits,-0.2211364966380032,2.56
+Uber,culture_values,-0.312725976625,2.37
+Uber,management,0.08222656607142853,3.16
+Uber,work_life_balance,-0.2663142517198679,2.47
+VMware,career_growth,0.13468751995180725,3.27
+VMware,compensation_benefits,0.09678710742640693,3.19
+VMware,culture_values,0.0007901220025995822,3.0
+VMware,management,-0.07291912559250528,2.85
+VMware,work_life_balance,-0.02081626204495407,2.96
+Wipro,career_growth,0.09103589771428572,3.18
+Wipro,compensation_benefits,-0.2069544455193529,2.59
+Wipro,culture_values,-0.2443627351957672,2.51
+Wipro,management,0.20111146608333333,3.4
+Wipro,work_life_balance,-0.14163687188541665,2.72
